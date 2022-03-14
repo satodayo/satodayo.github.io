@@ -2,7 +2,7 @@
 
 | key   | value |
 |------|------------------|
-| 氏名   | 佐藤 陽(Sato Akira) |
+| 氏名   | 佐藤 陽 (Sato Akira) |
 | 生年月日 | 1990/9/4         |
 | 居住地  | 静岡県浜松市           |
 
@@ -34,8 +34,6 @@
 | ~~GearLog~~(運用停止中) | - Apache Tomcat 9.0<br/>- Apache 2.4<br/>- JDK 1.8<br/>- MySQL 8.0<br/>- Oauth 2.0<br/>- Strava API<br/>- AWS<br/>-- EC2(RHEL8.0)<br/>-- Elastic Load Balancing<br/>-- Route53<br/>-- Certificate Manager | アスリート向けSNS「Strava」において、⾃転⾞の各パーツの使⽤距離および使用⽇数を管理する |
 
 #### Python Application
-
-1. RoadBike Fitting Assistant
 
 | Application                                                                        | Environment                         | Content                            |
 |------------------------------------------------------------------------------------|-------------------------------------|------------------------------------|
